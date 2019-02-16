@@ -4,15 +4,9 @@
 	<link rel="stylesheet" href="index.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/card.css">
 </head>
-<nav>
-		<div class="nav">
-			<a id="navTitle" class="navTitle"><span>| 채팅방 규칙</span></a>
-		</div>
-	</nav>
 <body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
 <body>
-<ul id="notice2" class="categoryList">
-    <a class="categoryLink"><li><h3>| 기본</h3>
+    <h3>| 기본</h3>
     <ol>
         <li>이 사이트는 '네온 컴퓨터잡담방'의 규칙 및 견적사이트 용도로 만들어졌습니다</li>
         <li>이 채팅방의 공식명칭은 '네온 컴퓨터대화방' 이라고 합니다</li>
@@ -53,7 +47,6 @@
         <li>금전적 피해, 성범죄, 법 위반은 <a href="http://cyberbureau.police.go.kr/index.do" target="_blank">사이버수사대</a>또는 인근 경찰서에 신고바랍니다.</li>
         <li>금전적 피해, 성범죄, 법 위반은 무죄 선고까지 영구제명입니다.</li>
     </ol>
-    <center><br /><br />Copyright 2018. Neon All pictures cannot be copied without permission.</center></li></a>
-    <br><br><br><br><br>
+    <center><br /><br />Copyright 2018. Neon All pictures cannot be copied without permission.</center>
 </body>
 </html>

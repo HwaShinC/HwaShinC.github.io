@@ -1,0 +1,127 @@
+body, button, input, select, td, textarea, th {
+    font - size: 12 px;
+    line - height: 1.5;
+    font - family: 'Malgun Gothic', '맑은 고딕', dotum, '돋움', sans - serif;
+    color: #333}.img_chat,.img_notice,.ir_pm{line-height:0}body,html{height:100%}button,fieldset,img{border:0}dl,li,menu,ol,ul{list-style:none}blockquote,q{quotes:none}a,body,button,td,th{color:# 333
+}
+a, a: active, a: hover {
+    text - decoration: none
+}
+address, caption, cite, code, dfn, em,
+var {
+    font - style: normal;
+    font - weight: 400
+}#
+daumIndex, blockquote, body, button, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, html, legend, li, ol, p, pre, td, th, ul {
+    margin: 0;padding: 0
+}#
+daumIndex, .ir_pm, .ir_wa, .screen_out {
+    overflow: hidden
+}.ir_pm, .ir_wa, .show {
+    display: block
+}.tbl, table {
+    border - collapse: collapse;
+    border - spacing: 0
+}.img_chat, .img_notice, .ir_pm, .screen_out {
+    text - indent: -9999 px
+}
+body {
+    -webkit - text - size - adjust: none;
+    background: #fff
+}
+input, select, textarea {
+    margin: 0;padding: 0;vertical - align: middle
+}
+button {
+    vertical - align: middle;
+    background - color: transparent;
+    cursor: pointer
+}.cl_b, .img_chat, .img_notice, .ir_pm {
+    font - size: 0
+}
+blockquote: after, blockquote: before, q: after, q: before {
+    content: none
+}
+input: checked[type = checkbox] {
+    background - color: #666;-webkit-appearance:checkbox}html input[type= button], input[type = email], input[type = password], input[type = reset], input[type = search], input[type = submit], input[type = tel], input[type = text] {
+    -webkit - appearance: none;
+    border - radius: 0
+}
+input[type = search]::-webkit - search - cancel - button {
+    -webkit - appearance: none
+}#
+#
+kakaoHead {
+    height: 66 px;display: flex;align - items: center;background - color: #fff;padding - left: 20 px
+}#
+mArticle {
+    overflow: hidden;padding: 6 % 0
+}#
+kakaoFoot {
+    padding: 20 px 0;border - top: 1 px solid# ddd;text - align: center
+}#
+kakaoFoot.link_policy {
+    color: #777;letter-spacing:-1px}# kakaoFoot.info_copyright,
+    #kakaoFoot.info_copyright.link_info,
+    #kakaoFoot.info_daumkakao {
+        color: #ccc;letter - spacing: -1 px
+    }#
+    kakaoFoot.info_daumkakao {
+        padding - top: 15 px
+    }#
+    kakaoFoot.info_copyright {
+        margin - top: 5 px
+    }.ico_chat,
+    .img_notice {
+        display: inline - block;vertical - align: top
+    }.img_notice {
+        background: url(/img/m320 / img_notice.png) no - repeat
+    }.ico_chat {
+        overflow: hidden;background: url(/img/m320 / ico_openchat.png) no - repeat
+    }.txt_bar {
+        width: 1 px;height: 11 px;margin: 4 px 5 px 0;background - position: 0 - 15 px
+    }.link_kakaologin {
+        float: left;width: 97 px;height: 18 px;margin: 20 px 0 0 30 px;font - size: 12 px;background: url(/img/m320 / logo_login.png)
+    }.kakao_help {
+        float: right;padding: 20 px 13 px 0 23 px
+    }.kakao_help.link_help {
+        margin - right: 10 px;
+        color: #aaa;
+        font - size: 13 px;
+        font - weight: 700;
+        letter - spacing: -1 px
+    }.openchat_type1.cont_openchat {
+        width: 920 px;margin: 70 px auto 180 px
+    }.info_openchat {
+        float: left;width: 540 px;height: 402 px;margin - right: 48 px;background: url(/img/m640 / img_login.jpg) no - repeat
+    }.login_openchat {
+        float: left;width: 270 px;height: 394 px;padding: 0 25 px;border: 1 px solid# ddd
+    }.login_openchat.tit_kakao {
+        display: block;float: left;width: 54 px;height: 14 px;margin: 22 px 0 12 px;background - position: 0 0
+    }.input_login {
+        position: relative;margin - bottom: 8 px
+    }.input_login.tf_login {
+        width: 240 px;height: 22 px;padding: 8 px 12 px;line - height: 22 px;border - radius: 5 px;outline: 0;border: 1 px solid# e5e5e5;letter - spacing: -1 px
+    }.input_login.lab_login {
+        display: block;position: absolute;top: 10 px;left: 10 px;color: #e5e5e5
+    }#
+    #
+#
+footer {
+    position: absolute;bottom: 0;left: 0;width: 100 % ;height: 60 px;background: #fff;border - top: 2 px solid# ffe11b
+}#
+footer div: nth - child(1) {
+    margin - left: 24 px
+}#
+footer div: nth - child(2) {
+    float: right;margin - right: 24 px
+}#
+footer div {
+    line - height: 60 px;
+    display: inline - block
+}#
+footer img {
+    vertical - align: middle
+}.content {
+    padding - bottom: 100 px
+}
